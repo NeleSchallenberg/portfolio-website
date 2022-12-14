@@ -154,7 +154,7 @@ button:hover, button:focus, .button:hover, button:focus {
 .profile {
   text-align: center;
   margin: 0 250px;
-  padding: 50px;
+  padding: 40px;
 }
 
 table {
@@ -210,7 +210,7 @@ table {
 /* ANIMATION */
 .animation {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 @keyframes color-change {
   0% {
