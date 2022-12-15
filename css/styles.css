@@ -198,7 +198,8 @@ table {
 /* CONTACT */
 .contact-page {
   text-align: center;
-  margin-top: 40px;
+  padding-top: 40px;
+  padding-bottom: 37px;
 }
 
 
