@@ -215,6 +215,7 @@ table {
 .animation {
   text-align: center;
   margin-top: 10px;
+  margin-bottom: 22px;
 }
 @keyframes color-change {
   0% {
