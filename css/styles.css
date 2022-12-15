@@ -63,8 +63,7 @@ header {
 .page-header {
   display: flex;
   width: 100%;
-  padding: 10px;
-  border-bottom: 1px solid var(--border-color);
+  margin: 15px auto;
 }
 
 .page-header__item {
@@ -74,6 +73,11 @@ header {
 .page-header__item:last-child {
   flex-grow: 1;
   text-align: right;
+  margin-right: 30px;
+}
+
+.page-header__item:first-child {
+  margin-left: 30px;
 }
 
 .navigation-list {
