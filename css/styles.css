@@ -174,15 +174,15 @@ table {
 
 /* WORK */
 .project-list__header {
-  padding-top: 55px;
+  margin-top: 40px;
   text-align: center;
 }
 .project-list {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 230px 230px;
   grid-gap: 20px;
-  margin: 20px 30px 20px 30px;
+  margin: 20px;
+  margin-top: 20px;
 }
 
 .project-list__item {
